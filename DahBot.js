@@ -11,7 +11,7 @@ const client = new Client({
 });
 
 //token bot của t
-const TOKEN = 'MTMyNzUzMzc0NDkwNjgzNDAwMg.GnrgbN.GdQ4oU1o8gC1f6NmxFWCPvhcYzjM4aIhDFoZjY';
+const TOKEN = 'HEHEHE';
 
 client.on('ready', () => {
     console.log(`Bot đã đăng nhập thành công với tên: ${client.user.tag}`);
